@@ -1,0 +1,25 @@
+title: AWS Fundamentals - Week 1
+description: Introduction to AWS & Cloud Computing
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Slides
+    url: /slides/
+  - title: Labs
+    url: /labs/
+  - title: Assessment
+    url: /assessment/
+
+# Footer
+footer:
+  - title: NEO Training Centre
+  - title: AWS Community Builders
